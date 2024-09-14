@@ -62,8 +62,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-I want to further develop my CSS skills, especially regarding flexbox and grids
-
+I want to further develop my CSS skills, especially regarding flexbox and grids for a responsive design.
 
 ## Author
 
